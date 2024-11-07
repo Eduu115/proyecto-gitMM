@@ -1,6 +1,6 @@
 # Título del proyecto
 
-Curso GIT Proyecto Final y callado
+Curso GIT Proyecto Final y callado y todavia mas
 
 ## Dscripción corta
 
@@ -9,3 +9,6 @@ Proyecto final en el que a partir de un repositorio se van a realizar una serie 
 ## Autores
 
 Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
+
+Y de la mia 
+a que fastidia ?
